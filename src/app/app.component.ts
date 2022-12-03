@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'solution2';
+  code = `  import  {MdbCollapseModule } from 'mdb-angular-ui-kit/collapse';`
 }
